@@ -1,6 +1,6 @@
 # Hi, I'm Arthur BROSSEAU 👋
 
-**Engineering Student @ECE Paris (Data & Artificial Intelligence)**
+**Engineering Student at ECE Paris (Data & Artificial Intelligence)**
 
 - ⚙️ I’m currently working on **data pipelines, machine learning models and data analysis projects**
 - 📊 Interested in **Data Engineering, Data Science, and scalable ML pipelines**
