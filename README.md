@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Arthur BROSSEAU 👋
 
-<!--
-**ArthuBrrr/ArthuBrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineering Student @ECE Paris (Data & Artificial Intelligence)**
 
-Here are some ideas to get you started:
+- ⚙️ I’m currently working on **data pipelines, machine learning models and data analysis projects**
+- 📊 Interested in **Data Engineering, Data Science, and scalable ML pipelines**
+- 🌱 Currently learning **ML pipelines, MLOps and Big Data tools**
+- 📫 How to reach me: arthur.brosseaue@edu.ece.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+Python • SQL • Java • C/C++  
+TensorFlow • PyTorch • Scikit-learn  
+Docker • Git • Linux  
+Pandas • NumPy • Matplotlib
