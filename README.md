@@ -5,7 +5,7 @@
 - ⚙️ I’m currently working on **data pipelines, machine learning models and data analysis projects**
 - 📊 Interested in **Data Engineering, Data Science, and scalable ML pipelines**
 - 🌱 Currently learning **ML pipelines, MLOps and Big Data tools**
-- 📫 How to reach me: arthur.brosseaue@edu.ece.fr
+- 📫 How to reach me: arthur.brosseau@edu.ece.fr
 
 ## Languages and Tools
 
