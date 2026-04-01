@@ -1,8 +1,8 @@
 # Hi 👋 I'm Arthur Brosseau
 
-🎓 Engineering Student @ ECE Paris (Data & Artificial Intelligence)
-🤖 Passionate about Machine Learning, Data Engineering & AI systems
-🚀 Currently working on real-world AI applications and data pipelines
+- Engineering Student @ ECE Paris (Data & Artificial Intelligence)
+- Passionate about Machine Learning, Data Engineering & AI systems
+- Currently working on real-world AI applications and data pipelines
 ---
 ## 🌐 Connect with me
 
@@ -41,13 +41,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-
-## 📊 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthuBrrr\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthuBrrr\&layout=compact\&theme=tokyonight)
 
 ---
 
