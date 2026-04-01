@@ -14,7 +14,7 @@ Looking for a 6-month internship starting January 2027
   <a href="mailto:arthur.brosseau@edu.ece.fr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://linkedin.com/](https://www.linkedin.com/in/arthur-brosseau-75748a294/](https://www.linkedin.com/in/arthur-brosseau-75748a294/)">
+  <a href="https://www.linkedin.com/in/arthur-brosseau-75748a294/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
