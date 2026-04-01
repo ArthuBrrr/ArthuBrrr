@@ -1,8 +1,12 @@
 # Hi 👋 I'm Arthur Brosseau
 
-- Engineering Student @ ECE Paris (Data & Artificial Intelligence)
-- Passionate about Machine Learning, Data Engineering & AI systems
-- Currently working on real-world AI applications and data pipelines
+Interested in agentic AI, data engineering and scalable machine learning systems.
+I focus on building intelligent pipelines and autonomous workflows, bridging the gap between models and real-world deployment.
+
+I enjoy turning complex data systems into robust, efficient and production-ready solutions.
+
+Looking for a 6-month internship starting January 2027
+
 ---
 ## 🌐 Connect with me
 
@@ -10,11 +14,8 @@
   <a href="mailto:arthur.brosseau@edu.ece.fr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/](https://www.linkedin.com/in/arthur-brosseau-75748a294/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ArthuBrrr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
